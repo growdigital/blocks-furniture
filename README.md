@@ -2,7 +2,7 @@
 
 Garden furniture as CAD blocks
 
-![Screenshot of garden furniture CAD blocks](https://res.cloudinary.com/growdigital/image/upload/w_320/v1675858091/blocks-furniture-screenshot.png)
+![Screenshot of garden furniture CAD blocks](https://res.cloudinary.com/growdigital/image/upload/v1675858091/blocks-furniture-screenshot.png)
 
 Includes:
 
